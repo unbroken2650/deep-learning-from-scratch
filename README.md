@@ -1,2 +1,2 @@
 # Deep Learning From Scratch
- https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=99518713&start=slayer
+[Author's Repo](https://github.com/WegraLee/deep-learning-from-scratch)
